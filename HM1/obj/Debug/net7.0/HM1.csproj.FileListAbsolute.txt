@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM1\bin\Debug\net7.0\HM1.exe
+D:\VS Code\HomeWorkC\HM1\bin\Debug\net7.0\HM1.deps.json
+D:\VS Code\HomeWorkC\HM1\bin\Debug\net7.0\HM1.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM1\bin\Debug\net7.0\HM1.dll
+D:\VS Code\HomeWorkC\HM1\bin\Debug\net7.0\HM1.pdb
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.dll
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\refint\HM1.dll
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.pdb
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\HM1.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM1\obj\Debug\net7.0\ref\HM1.dll
