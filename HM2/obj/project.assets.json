@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Администратор\\.nuget\\packages\\": {}
+    "C:\\Users\\Korvin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\VS Code\\HomeWorkC\\HM2\\HM2.csproj",
       "projectName": "HM2",
       "projectPath": "D:\\VS Code\\HomeWorkC\\HM2\\HM2.csproj",
-      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Korvin\\.nuget\\packages\\",
       "outputPath": "D:\\VS Code\\HomeWorkC\\HM2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Korvin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
