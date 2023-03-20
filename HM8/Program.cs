@@ -2,42 +2,20 @@
 // Требуется определить значение второго по величине элемента в этой последовательности, 
 // то есть элемента, который будет наибольшим, если из последовательности удалить наибольший элемент.
 
-Console.Clear();
 
-Random rnd = new Random();
-
-Console.WriteLine("Сколько чисел Вам сгенерировать?");
-int n = Convert.ToInt32(Console.ReadLine());
-for (uint ctr = 1; ctr <= n; ctr++)
-    Console.WriteLine($"{rnd.Next(100)}");
-
-int a = 0;
-int b = 0;
-int max = 0;
-int pred_max = 0 ;
-
-if (a >= b)
-{
-    max = a;
-    pred_max = b;
-}
-else
-{
-    max = b;
-    pred_max = a;
-}
-while (a != 0)
-{
-    if (a == 0) break;
-    if (max <= a)
-    {
-        pred_max = max;
-        max = a;
-    }
-    else if (pred_max < a)
-    {
-        pred_max = a;
-    }
-}
-Console.WriteLine(pred_max);
-
+// Console.Clear();
+// int n = int.Parse(Console.ReadLine()!), max1 = n, max2 = 0;
+// while (n != 0)
+// {
+//     n = int.Parse(Console.ReadLine()!);
+//     if (n > max1)
+//     {
+//         max2 = max1;
+//         max1 = n;
+//     }
+//     else if (n > max2)
+//     {
+//         max2 = n;
+//     }
+// }
+// Console.WriteLine(max2);
