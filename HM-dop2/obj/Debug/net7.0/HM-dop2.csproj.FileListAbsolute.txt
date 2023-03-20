@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM-dop2\bin\Debug\net7.0\HM-dop2.exe
+D:\VS Code\HomeWorkC\HM-dop2\bin\Debug\net7.0\HM-dop2.deps.json
+D:\VS Code\HomeWorkC\HM-dop2\bin\Debug\net7.0\HM-dop2.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM-dop2\bin\Debug\net7.0\HM-dop2.dll
+D:\VS Code\HomeWorkC\HM-dop2\bin\Debug\net7.0\HM-dop2.pdb
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.dll
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\refint\HM-dop2.dll
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.pdb
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\HM-dop2.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM-dop2\obj\Debug\net7.0\ref\HM-dop2.dll
