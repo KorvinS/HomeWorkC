@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM23\bin\Debug\net7.0\HM23.exe
+D:\VS Code\HomeWorkC\HM23\bin\Debug\net7.0\HM23.deps.json
+D:\VS Code\HomeWorkC\HM23\bin\Debug\net7.0\HM23.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM23\bin\Debug\net7.0\HM23.dll
+D:\VS Code\HomeWorkC\HM23\bin\Debug\net7.0\HM23.pdb
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.dll
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\refint\HM23.dll
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.pdb
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\HM23.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM23\obj\Debug\net7.0\ref\HM23.dll
