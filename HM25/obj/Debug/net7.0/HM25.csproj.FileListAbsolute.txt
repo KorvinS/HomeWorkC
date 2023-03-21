@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM25\bin\Debug\net7.0\HM25.exe
+D:\VS Code\HomeWorkC\HM25\bin\Debug\net7.0\HM25.deps.json
+D:\VS Code\HomeWorkC\HM25\bin\Debug\net7.0\HM25.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM25\bin\Debug\net7.0\HM25.dll
+D:\VS Code\HomeWorkC\HM25\bin\Debug\net7.0\HM25.pdb
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.dll
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\refint\HM25.dll
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.pdb
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\HM25.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM25\obj\Debug\net7.0\ref\HM25.dll
