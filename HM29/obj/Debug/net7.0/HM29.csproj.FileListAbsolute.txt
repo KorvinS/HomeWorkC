@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM29\bin\Debug\net7.0\HM29.exe
+D:\VS Code\HomeWorkC\HM29\bin\Debug\net7.0\HM29.deps.json
+D:\VS Code\HomeWorkC\HM29\bin\Debug\net7.0\HM29.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM29\bin\Debug\net7.0\HM29.dll
+D:\VS Code\HomeWorkC\HM29\bin\Debug\net7.0\HM29.pdb
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.dll
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\refint\HM29.dll
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.pdb
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\HM29.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM29\obj\Debug\net7.0\ref\HM29.dll
