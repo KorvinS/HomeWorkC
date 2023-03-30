@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM41\bin\Debug\net7.0\HM41.exe
+D:\VS Code\HomeWorkC\HM41\bin\Debug\net7.0\HM41.deps.json
+D:\VS Code\HomeWorkC\HM41\bin\Debug\net7.0\HM41.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM41\bin\Debug\net7.0\HM41.dll
+D:\VS Code\HomeWorkC\HM41\bin\Debug\net7.0\HM41.pdb
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.dll
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\refint\HM41.dll
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.pdb
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\HM41.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM41\obj\Debug\net7.0\ref\HM41.dll
