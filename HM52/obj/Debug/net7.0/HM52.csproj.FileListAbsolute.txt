@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM52\bin\Debug\net7.0\HM52.exe
+D:\VS Code\HomeWorkC\HM52\bin\Debug\net7.0\HM52.deps.json
+D:\VS Code\HomeWorkC\HM52\bin\Debug\net7.0\HM52.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM52\bin\Debug\net7.0\HM52.dll
+D:\VS Code\HomeWorkC\HM52\bin\Debug\net7.0\HM52.pdb
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.dll
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\refint\HM52.dll
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.pdb
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\HM52.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM52\obj\Debug\net7.0\ref\HM52.dll
