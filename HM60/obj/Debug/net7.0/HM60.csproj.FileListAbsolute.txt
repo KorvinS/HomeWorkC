@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM60\bin\Debug\net7.0\HM60.exe
+D:\VS Code\HomeWorkC\HM60\bin\Debug\net7.0\HM60.deps.json
+D:\VS Code\HomeWorkC\HM60\bin\Debug\net7.0\HM60.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM60\bin\Debug\net7.0\HM60.dll
+D:\VS Code\HomeWorkC\HM60\bin\Debug\net7.0\HM60.pdb
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.dll
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\refint\HM60.dll
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.pdb
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\HM60.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM60\obj\Debug\net7.0\ref\HM60.dll
