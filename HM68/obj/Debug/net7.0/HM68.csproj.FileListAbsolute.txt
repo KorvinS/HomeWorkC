@@ -1,0 +1,15 @@
+D:\VS Code\HomeWorkC\HM68\bin\Debug\net7.0\HM68.exe
+D:\VS Code\HomeWorkC\HM68\bin\Debug\net7.0\HM68.deps.json
+D:\VS Code\HomeWorkC\HM68\bin\Debug\net7.0\HM68.runtimeconfig.json
+D:\VS Code\HomeWorkC\HM68\bin\Debug\net7.0\HM68.dll
+D:\VS Code\HomeWorkC\HM68\bin\Debug\net7.0\HM68.pdb
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.csproj.AssemblyReference.cache
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.AssemblyInfoInputs.cache
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.AssemblyInfo.cs
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.csproj.CoreCompileInputs.cache
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.dll
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\refint\HM68.dll
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.pdb
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\HM68.genruntimeconfig.cache
+D:\VS Code\HomeWorkC\HM68\obj\Debug\net7.0\ref\HM68.dll
